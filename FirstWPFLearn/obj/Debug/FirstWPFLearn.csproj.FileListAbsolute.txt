@@ -1,0 +1,15 @@
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\bin\Debug\FirstWPFLearn.exe.config
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\bin\Debug\FirstWPFLearn.exe
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\bin\Debug\FirstWPFLearn.pdb
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn.csprojAssemblyReference.cache
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\MainWindow.g.cs
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\App.g.cs
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn_MarkupCompile.cache
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn_MarkupCompile.lref
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\MainWindow.baml
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn.g.resources
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn.Properties.Resources.resources
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn.csproj.GenerateResource.cache
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn.exe
+C:\Users\Vitaliy Mekh\source\repos\FirstWPFLearn\obj\Debug\FirstWPFLearn.pdb
